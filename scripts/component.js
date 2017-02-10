@@ -20,7 +20,6 @@
     post.image = vm.image;
     post.description = vm.description;
     vm.formattedPost = post;
-    console.log(vm.formattedPost)
     }
   }
 
