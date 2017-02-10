@@ -1,0 +1,11 @@
+.vCenter {
+  display: flex;
+  align-items: center !important;
+}
+.vRight {
+  display: flex;
+  align-items: center !important;
+  justify-content: flex-end;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
